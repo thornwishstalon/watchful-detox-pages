@@ -6,7 +6,7 @@ title: Setup
 
 Surprisingly, installing `Watchful` on a WearOS watch is not so much different than installing it on a phone.
 
-### Use play store link
+### Use Google Play Store link
 
 You will receive a ==link== that points you to `play.google.com` that lets you install the Watchful apps on your phone and watch.
 
@@ -38,19 +38,14 @@ You will receive a ==link== that points you to `play.google.com` that lets you i
 
 <!-- prettier-ignore-start -->
 !!! success
-    well done. That's it for the installation.
+    well done. That's it for the installation. **BUT** to make the most of Watchful please setup 
+    GoogleFit and the Suunto app! :wink:
 <!-- prettier-ignore-start -->
 
-### to make the most of Watchful:
+
 
 <!-- prettier-ignore-start -->
-!!! note
+!!! tip
     The `Watchful`-App on your phone will query fitness data from {++GoogleFit++}. This data is collected first through the
-    watch. :wink:
+    watch.  
 <!-- prettier-ignore-end -->
-
-## Step 1: Enable Google Fit on your Watch
-
-## Step 2 Suunto to synchronize data with Google Fit
-
-TODO:

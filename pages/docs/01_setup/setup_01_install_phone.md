@@ -44,8 +44,10 @@ You will receive a ==link== that points you to `play.google.com` that lets you i
 
 ### Step 3: Allow `Watchful` to access `Google Fit`
 
+<!-- prettier-ignore-start -->
 !!! note
-your will need to allow `Watchful` to read health data records from your google fit account.
+    your will need to allow `Watchful` to read health data records from your google fit account.
+<!-- prettier-ignore-end -->
 
 This is done with the following steps:
 

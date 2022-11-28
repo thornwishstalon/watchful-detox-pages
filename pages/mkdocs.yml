@@ -9,7 +9,6 @@ theme:
       primary: black
       toggle:
         icon: material/weather-night
-
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -59,7 +58,10 @@ nav:
   - "Setup":
       - Requirements: "01_setup/setup.md"
       - "Setup: Phone": "01_setup/setup_01_install_phone.md"
-      - "Setup: Watch": "01_setup/setup_02_install_watch.md"
+      - "Setup: Watch":
+          - "Install App": "01_setup/setup_02_00_install_watch.md"
+          - "Enable GoogleFit": "01_setup/setup_02_01_install_watch.md"
+          - "Enable Sleep Tracking": "01_setup/setup_02_02_install_watch.md"
   - "Features":
       - App Usage Tracking: "02_features/usage_tracking.md"
       - App Usage Alarms: "02_features/usage_alarms.md"
