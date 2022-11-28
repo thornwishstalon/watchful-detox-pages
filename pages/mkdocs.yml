@@ -19,3 +19,52 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Welcome: 'index.md'
+  - 'Setup' :
+      - Requirements: '01_setup/setup.md'
+      - "Setup: Phone": '01_setup/setup_01_install_phone.md'
+      - "Setup: Watch": '01_setup/setup_02_install_watch.md'
+  - 'Features' :
+      - App Usage Tracking: '02_features/usage_tracking.md'
+      - App Usage Alarms: '02_features/usage_alarms.md'
+      - App Usage and Health: '02_features/usage_and_health.md'
+      - Data Export: '02_features/data_export.md'
+  - Disclaimer: 'disclaimer.md'
+  - About: 'about.md'
