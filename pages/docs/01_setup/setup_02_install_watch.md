@@ -10,12 +10,16 @@ Surprisingly, installing `Watchful` on a WearOS watch is not so much different t
 
 You will receive a ==link== that points you to `play.google.com` that lets you install the Watchful apps on your phone and watch.
 
+<!-- prettier-ignore-start -->
 !!! warning
-You will need login with your Google account
+    You will need login with your Google account
+<!-- prettier-ignore-end -->
 
+<!-- prettier-ignore-start -->
 !!! note
-Don't be alarmed by the `(unreviewed)` suffix. The reasons for this is, that the app has not yet been
-reviewed and approved by Google.
+    Don't be alarmed by the `(unreviewed)` suffix. The reasons for this is, that the app has not yet been
+    reviewed and approved by Google.
+<!-- prettier-ignore-end -->
 
 <figure markdown>
 ![Image title](./../assets/screenshots/setup/play_store_1.png){ loading=lazy }
@@ -32,14 +36,18 @@ reviewed and approved by Google.
   <figcaption>et Voilá  🎉</figcaption>
 </figure>
 
+<!-- prettier-ignore-start -->
 !!! success
-well done. That's it for the installation.
+    well done. That's it for the installation.
+<!-- prettier-ignore-start -->
 
 ### to make the most of Watchful:
 
+<!-- prettier-ignore-start -->
 !!! note
-The `Watchful`-App on your phone will query fitness data from {++GoogleFit++}. This data is collected first through the
-watch. :wink:
+    The `Watchful`-App on your phone will query fitness data from {++GoogleFit++}. This data is collected first through the
+    watch. :wink:
+<!-- prettier-ignore-end -->
 
 ## Step 1: Enable Google Fit on your Watch
 
