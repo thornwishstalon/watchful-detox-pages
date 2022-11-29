@@ -65,6 +65,7 @@ nav:
           - "Install App": "01_setup/setup_02_00_install_watch.md"
           - "Enable GoogleFit": "01_setup/setup_02_01_install_watch.md"
           - "Enable Sleep Tracking": "01_setup/setup_02_02_install_watch.md"
+      - Test Phone & Watch: "01_setup/setup_test.md"
   - "Features":
       - App Usage Tracking: "02_features/usage_tracking.md"
       - App Usage Alarms: "02_features/usage_alarms.md"

@@ -29,21 +29,61 @@ This is done with the following steps:
 
 You will need to read through the consent form and accept it.
 
+<figure markdown>
+![Image title](./../assets/screenshots/setup/watchful_consent_0.png){ loading=lazy width="300"}
+</figure>
+
 <!-- prettier-ignore-start -->
-!!! tip
-    If for some reason you don't see any data under Watchful's health section after logging into Google Fit, try restarting the app entirely. 
+!!! note
+    Until `Watchful` is verified you will see a warning like this
+<!-- prettier-ignore-end -->
+
+<figure markdown>
+![Image title](./../assets/screenshots/setup/watchful_consent_1.png){ loading=lazy width="300"} 
+</figure>
+
+<!-- prettier-ignore-start -->
+!!! note
+    You have the choice of what you share with Watchful
+<!-- prettier-ignore-end -->
+
+<figure markdown>
+![Image title](./../assets/screenshots/setup/watchful_consent_2.png){ loading=lazy width="300"}
+</figure>
+
+<figure markdown>
+![Image title](./../assets/screenshots/setup/watchful_consent_3.png){ loading=lazy width="300"}
+  <figcaption> Please trust Watchul </figcaption>
+</figure>
+
+<!-- prettier-ignore-start -->
+!!! success
+    great! now you the 'health' section should show more than a warning label :: 
 <!-- prettier-ignore-end -->
 
 ## **[Optional]** Enable phone notifications
 
 <!-- prettier-ignore-start -->
 !!! note
-    when `phone notifications`are enabled your usage-alarms will create a notification on your phone additional to make some noise on your watch!
+    when `phone notifications`are enabled your usage-alarms will create a notification on your phone besides making 
+    some noise on your watch!
 <!-- prettier-ignore-end -->
 
 <figure markdown>
 ![Image title](./../assets/screenshots/setup/setup_phone_fit_0.png){ loading=lazy width="300"}
   <figcaption> Phone notifications settings </figcaption>
+</figure>
+
+<!-- prettier-ignore-start -->
+!!! note
+    In case phone notifications are enabled, you will also get a notification on your phone when alarms get triggered by you!
+
+    See the example below: 
+
+<!-- prettier-ignore-end -->
+
+<figure markdown>
+![Image title](./../assets/screenshots/v0.3/phone_alarm_notifcation.png){ loading=lazy width="300"}
 </figure>
 
 <!-- prettier-ignore-start -->

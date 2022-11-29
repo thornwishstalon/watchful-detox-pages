@@ -7,7 +7,7 @@ title: Watchful
 {++Watchful++} is an `Android`/`WearOs` app that should help you to keep an eye on your daily app usage.
 
 <figure markdown>
-![Image title](./../assets/images/watchful_logo_v2_round.png){width="150"}
+![Image title](.//assets/images/watchful_logo_v2_round.png){width="150"}
 </figure>
 
 ## Features
