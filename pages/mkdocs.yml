@@ -57,7 +57,10 @@ nav:
   - Welcome: "index.md"
   - "Setup":
       - Requirements: "01_setup/setup.md"
-      - "Setup: Phone": "01_setup/setup_01_install_phone.md"
+      - "Setup: Phone":
+          - "Install App": "01_setup/setup_01_00_install_phone.md"
+          - "Setup Permissions": "01_setup/setup_01_01_install_phone.md"
+          - "Setup GoogleFit": "01_setup/setup_01_02_install_phone.md"
       - "Setup: Watch":
           - "Install App": "01_setup/setup_02_00_install_watch.md"
           - "Enable GoogleFit": "01_setup/setup_02_01_install_watch.md"

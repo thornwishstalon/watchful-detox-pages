@@ -4,7 +4,7 @@ title: Setup
 
 ## Install Steps for your Phone
 
-### Step 1: Install via `Google Play` link
+### Install app via `Google Play` link
 
 You will receive a ==link== that points you to `play.google.com` that lets you install the Watchful apps on your phone and watch.
 
@@ -33,29 +33,3 @@ You will receive a ==link== that points you to `play.google.com` that lets you i
 ![Image title](./../assets/screenshots/setup/play_store_4.png){ loading=lazy }
   <figcaption>et Voilá  🎉</figcaption>
 </figure>
-
-### Step 2: Allow `Watchful` access to read usage statistics
-
-<!-- prettier-ignore-start -->
-!!! note
-    Since Android 10 app permissions have become stricter to the point, that special permissions need to be actively
-    provided to apps through you. see [Android Developer Documentation](https://developer.android.com/about/versions/10/privacy/changes) for more information.
-<!-- prettier-ignore-end -->
-
-### Step 3: Allow `Watchful` to access `Google Fit`
-
-<!-- prettier-ignore-start -->
-!!! note
-    your will need to allow `Watchful` to read health data records from your google fit account.
-<!-- prettier-ignore-end -->
-
-This is done with the following steps:
-
-- open Watchful
-- goto settings
-- press login button
-- select your google fit account
-- TODO: follow the oauth flow
-- restart the app ()
-
-## **[Optional]** enable phone notifications
