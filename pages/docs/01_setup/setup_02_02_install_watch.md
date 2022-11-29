@@ -40,5 +40,5 @@
 
 <!-- prettier-ignore-start -->
 !!! success
-    :tada: Awesome, **You** are now set up!
+    :tada: Awesome! Next up: the face!
 <!-- prettier-ignore-end -->
