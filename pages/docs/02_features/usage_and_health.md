@@ -1,1 +1,1 @@
-## Tracking and visualizing your app usage
+## see your health data together with your usage
