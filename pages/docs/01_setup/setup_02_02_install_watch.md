@@ -3,6 +3,14 @@
     Google Fit doesn't track sleep, **BUT** Suunto does :wink:
 <!-- prettier-ignore-end -->
 
+<!-- prettier-ignore-start -->
+!!! warning
+    make sure that you have Sunnto's latest firmware installed! 
+
+    See [Keep your Suunto 7 up to date](https://www.suunto.com/en-gb/Support/Product-support/suunto_7/suunto_7/get-started/keep-your-suunto-7-up-to-date/)
+
+<!-- prettier-ignore-end -->
+
 <figure markdown>
 ![Image title](./../assets/screenshots/setup/watch_suunto_00.png){ loading=lazy }
   <figcaption> Start the pre-installed Suunto application </figcaption>

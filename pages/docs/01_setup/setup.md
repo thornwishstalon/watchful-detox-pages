@@ -25,7 +25,7 @@ title: Setup
 - Google Fit Account (same as your Google Play Account)
   - see [Google Fit documentation](https://www.google.com/fit/)
 
-### Setup Flow in sort
+### Setup Flow
 
 - setup watch and pair with phone
   - follow the install guide on watch
