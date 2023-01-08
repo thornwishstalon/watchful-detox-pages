@@ -5,7 +5,8 @@ title: Watchface Explained
 # Watch Face
 
 <figure markdown>
-![Image title](./../assets/images/explain_watchface.png){ loading=lazy }
+![Image title](./../assets/images/explain_watchface_dark.png#only-dark){ loading=lazy }
+![Image title](./../assets/images/explain_watchface_light.png#only-light){ loading=lazy }
   <figcaption>How to read the watchface</figcaption>
 </figure>
 
