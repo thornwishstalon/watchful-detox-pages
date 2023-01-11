@@ -54,7 +54,7 @@ The Suunto 7 comes pre-installed with GoogleFit. But you will need to finish the
 
 <figure markdown>
 ![Image title](./../assets/screenshots/setup/watch_google_fit_6.png){ loading=lazy }
-  <figcaption> That's optional from our side 🤷‍ BUT could be interesting for you. </figcaption>
+  <figcaption> yes! ✅ </figcaption>
 </figure>
 
 <!-- prettier-ignore-start -->
